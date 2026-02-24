@@ -1,21 +1,9 @@
-# Luqman 👋
+# Hi, I'm Luqman Khailmi 👋
 
-### Full-Stack Web Development  
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20"/> React
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="20"/> Spring Boot
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="20"/> PostgreSQL
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="20"/> Docker
-</p>
+I am a Computer Science student at **Universiti Teknologi MARA** (Semester 4/7) with a focus on **Full-Stack Development**.  
+I build web applications using **React, Spring Boot, PostgreSQL, and Docker**.
 
-### Data Analytics  
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="20"/> Google Looker Studio
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="20"/> Google Sheets
-</p>
+I also have experience in **data analysis and dashboard management** using **Google Looker Studio**.  
+Previously, I interned at **UiTM Global** under the Department of Strategic Partnership, where I monitored and managed international engagement data.
 
-Building scalable systems and meaningful dashboards.
+Currently, I am working on **Monitor** and **Circles** to further enhance my technical skills and practical experience.
