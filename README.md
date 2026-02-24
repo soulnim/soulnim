@@ -6,4 +6,4 @@ I build web applications using **React, Spring Boot, PostgreSQL, and Docker**.
 I also have experience in **data analysis and dashboard management** using **Google Looker Studio**.  
 Previously, I interned at **UiTM Global** under the Department of Strategic Partnership, where I monitored and managed international engagement data.
 
-Currently, I am working on **Monitor** and **Circles** to further enhance my technical skills and practical experience.
+Currently, I am working on **Monitor** and **Circles** (pinned below) to further enhance my technical skills and practical experience.
